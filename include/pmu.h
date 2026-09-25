@@ -6,13 +6,10 @@
   published by the Free Software Foundation.
 **/
 
+#include <generated/autoconf.h>
+
 #ifndef _PMU_H_
 #define _PMU_H_
-
-//
-// PMU Base
-//
-#define PMU_BASE                        0x14060000
 
 //
 // PMU Register Offsets

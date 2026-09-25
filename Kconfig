@@ -1,0 +1,7 @@
+mainmenu "Carbon Hypervisor Configuration"
+
+config EXYNOS9810
+    bool "Exynos9810 support"
+    default n
+    help
+      Select this option to compile for Exynos9810.

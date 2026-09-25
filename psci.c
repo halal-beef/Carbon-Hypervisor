@@ -9,6 +9,7 @@
 #include <stdbool.h>
 #include <stdint.h>
 
+#include <soc.h>
 #include <pmu.h>
 #include <memory.h>
 #include <psci_trampoline.h>
